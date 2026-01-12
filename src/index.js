@@ -1,6 +1,6 @@
 /*
-    THIS IS THE VERSION 3
+    THIS IS THE VERSION 1
 */
 
 console.log("index.js");
-console.log("Version 3");
+console.log("Version 1");
